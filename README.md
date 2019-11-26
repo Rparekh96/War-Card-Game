@@ -1,4 +1,4 @@
-# War-Card-Game
+# War-Card-Game-App
 
 War Card Game which was created in Xcode for IOS platforms using Swift programming language, this is my first ever app I have created.  
 
